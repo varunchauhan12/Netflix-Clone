@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" preserveAspectRatio="none">
+    <!-- Gradient Definition -->
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color: red; stop-opacity: 1" />
+            <stop offset="100%" style="stop-color: pink; stop-opacity: 1" />
+        </linearGradient>
+    </defs>
+    <!-- Curvy Path -->
+    <path d="M0,50 C300,100 900,0 1200,50 L1200,100 L0,100 Z" />
+</svg>
